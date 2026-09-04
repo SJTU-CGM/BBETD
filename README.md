@@ -1,4 +1,4 @@
-# BBETD: Block-Based Extended Tandem Duplication Detector
+# BBETD: Blast-Based Extended Tandem Duplication Detector
 
 [![Language: Python](https://img.shields.io/badge/Language-Python%203.8+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
