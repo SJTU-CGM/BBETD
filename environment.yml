@@ -1,0 +1,13 @@
+name: bbetd
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.8
+  - biopython>=1.78
+  - diamond>=2.0.0
+  - gffread>=0.11.8
+  - pip
+  - pip:
+      - -e .
