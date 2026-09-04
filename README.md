@@ -59,3 +59,11 @@ The output directory contains:
 | `--evalue` | `1e-2` | Diamond BLAST E-value cut-off |
 | `--min-cov` | `20.0` | Minimum sequence coverage (%) |
 | `--matrix` | `BLOSUM45` | Diamond alignment matrix |
+
+
+##  Demo
+
+```bash
+cd scripts
+bash run_slurm_example.sh
+```
