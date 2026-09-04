@@ -1,9 +1,9 @@
-# BBETD: Blast-Based Extended Tandem duplication gene Detector
+# BBETD: Blast-Based Extended Tandem duplicated genes Detector
 
 [![Language: Python](https://img.shields.io/badge/Language-Python%203.8+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**BBETD** is an efficient tool designed to identify tandemly duplicated genes (TDGs) across eukaryotic genomes. It leverages protein sequence similarity (Diamond with BLOSUM45) combined with gene synteny and a dual-rule classification system to identify both immediate (k=0) and extended (intervening genes, k ≤ 5) tandem arrays.
+**BBETD** is an efficient tool designed to identify tandem duplicated genes (TDGs) across eukaryotic genomes. It leverages protein sequence similarity (Diamond with BLOSUM45) combined with gene synteny and a dual-rule classification system to identify both contiguous and dispersed (intervening) tandem gene arrays.
 
 ---
 
