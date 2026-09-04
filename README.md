@@ -66,4 +66,16 @@ The output directory contains:
 ```bash
 cd scripts
 bash run_slurm_example.sh
+#[1/4] Extracting proteins & calculating gene orders...
+#[2/4] Running Diamond self-blastp alignment..
+# ...
+#Reported 59'778 pairwise alignments, 59'778 HSPs.
+#8'047 queries aligned.
+#[3/4] Detecting tandem duplication blocks...
+#[4/4] Performing Dual-Rule classification...
+#==========================================================================
+#[✓] Completed in 20.84s!
+#[✓] High-confidence tandem duplicate pairs found: 1252
+#[✓] Final results saved to: ./results/simulated_bbetd_bbetd_tdg.pairs
+#==========================================================================
 ```
